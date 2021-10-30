@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rockingatgithub
-- 👀 I’m interested in solve problems with code.
+- 👀 I’m interested in solve problems with code and learn technologies. 
 - 🌱 I’m currently learning Microservices.
 - 💞️ I’m looking to collaborate on MERN stack projects.
 - 📫 How to reach me, drop a mail at :- contactwithsid@gmail.com
